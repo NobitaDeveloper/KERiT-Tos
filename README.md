@@ -3,7 +3,7 @@
 **By using KERiT you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
-2. Read and agreed to our [privacy policy](w8)
+2. Read and agreed to our [privacy policy](https://github.com/nobitadeveloper/KERiT-Tos/blob/main/README.md)
 
 # Prohibited Activities
 
